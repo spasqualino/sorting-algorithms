@@ -47,7 +47,7 @@ public class QuickSort extends AbstractSorting {
     }
 
     @Override
-    protected String getSortName() {
+    public String getSortName() {
         return "Quick Sort";
     }
 }

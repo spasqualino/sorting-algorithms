@@ -9,7 +9,7 @@ public class SelectionSort extends AbstractSorting {
     }
 
     @Override
-    protected String getSortName() {
+    public String getSortName() {
         return "Selection Sort";
     }
 

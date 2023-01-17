@@ -29,7 +29,7 @@ public class InsertionSort extends AbstractSorting {
     }
 
     @Override
-    protected String getSortName() {
+    public String getSortName() {
         return "Insertion Sort";
     }
 }

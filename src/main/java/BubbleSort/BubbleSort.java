@@ -9,7 +9,7 @@ public class BubbleSort extends AbstractSorting {
     }
 
     @Override
-    protected String getSortName() {
+    public String getSortName() {
         return "Bubble Sort";
     }
 

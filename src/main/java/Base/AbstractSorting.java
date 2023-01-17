@@ -42,5 +42,5 @@ public abstract class AbstractSorting {
 
     protected abstract void doSorting(int[] unsortedArray);
 
-    protected abstract String getSortName();
+    public abstract String getSortName();
 }
